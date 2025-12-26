@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Naftal Mambo
 
-- Beginner Programmer  
-- Learning HTML  
+- Learning software development 
 - Aiming to be a Full-Stack Developer 🚀
 
 ## 🎓 Education
@@ -17,7 +16,7 @@
 ## 📂 Current Projects
 - HTML practice pages
 
-## 🎯 Goals
+## 🎯 Short-term Goals
 - Learn CSS and JavaScript 🎨  
 - Build small web projects 🏗️  📚  
 - Start my portfolio website 🌟

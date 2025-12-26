@@ -6,10 +6,11 @@
 
 ## 🎓 Education
 - Bachelor’s in Business and IT — JKUAT (Kenya)  
-- Currently pursuing **FreeCodeCamp Full-Stack Developer Curriculum**
+- Currently pursuing **Software development**
 
 ## 🔧 Technologies I'm Learning
-- HTML 💻  
+- HTML 💻
+- CSS
 - Git 🗂️  
 - GitHub 🌐  
 
@@ -18,8 +19,7 @@
 
 ## 🎯 Goals
 - Learn CSS and JavaScript 🎨  
-- Build small web projects 🏗️  
-- Complete FreeCodeCamp curriculum 📚  
+- Build small web projects 🏗️  📚  
 - Start my portfolio website 🌟
 
 ## 📫 Contact

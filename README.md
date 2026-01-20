@@ -43,10 +43,6 @@ Aspiring Full‑Stack Developer | Currently mastering HTML/CSS fundamentals, adv
 
 - Aspire to specialize as a **Payment Systems Specialist**, designing secure, scalable solutions for digital transactions and financial platforms
 
-## 📊 Profile Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=naftalmambo&color=blue)
-
 ## 📫 Contact
 
 - 📧 Email: **naftalmmb@gmail.com**

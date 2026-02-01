@@ -46,5 +46,6 @@ Aspiring Full‑Stack Developer | Currently mastering HTML/CSS fundamentals, adv
 
 ## 📫 Contact
 
-- 📧 Email: **naftalmmb@gmail.com**
-- 📱 Phone: **+254 725 452 079**
+- View more of my work on [GitHub](https://github.com/naftalmambo) 
+- Or open an issue in this repository.
+

@@ -32,7 +32,6 @@
 ## 📫 Contact
 
 [![GitHub](https://shields.io)](https://github.com/naftalmambo)
-[![Discord](https://shields.io)](https://discord.com/users/1157321092482994246)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Discord](https://img.shields.io/discord/:serverId)](https://discordapp.com/users/1157321092482994246)
 
 

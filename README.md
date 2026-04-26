@@ -1,8 +1,10 @@
 # 👋 Hello World, I'm Naftal Mambo;
 
--A self-taught Web Developer currently mastering **Front-End Web Development**.
+- A self-taught Web Developer currently mastering **Front-End Web Development**.
 
--I have a deep interest in how digital money moves and am working toward a long-term goal of becoming an expert in **financial and payment systems**.
+### 🎯 Mission
+
+- I have a deep interest in how digital money moves and am working towards a long-term goal of leveraging technical expertise to build scalable solutions for **financial and payment systems**.
 
 - 👯 I’m looking to contribute on [Open Source/Side Project]
 
@@ -26,6 +28,6 @@
 
 If you need some extra hands or eyes for your project, please feel free to reach out;
 
-- 💬 **Discord:** [Contact me on Discord](https://discord.com)
+- 💬 **Discord:** [Contact me on Discord](https://discord.com/user/1157321092482994246)
 - 💼 **LinkedIn:** [naftalmambo](https://linkedin.com)
 - 🐙 **GitHub:** [naftalmambo](https://github.com)

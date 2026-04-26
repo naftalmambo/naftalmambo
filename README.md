@@ -1,13 +1,13 @@
 # 👋 Hello World, I'm Naftal Mambo
 
-Aspiring Full‑Stack Developer | Currently mastering HTML/CSS fundamentals, advancing into JavaScript
+
 
 ## 🎓 Education
+- **Bachelor of Business & Information Technology**  
+  Jomo Kenyatta University of Agriculture and Technology (JKUAT) Kenya.
 
-- Bachelor’s Degree in Business and IT — JKUAT (Kenya)
-- Currently pursuing **Software Development** through structured programs (The Odin Project & FreeCodeCamp)
 
-## 🔧 Technologies (Foundations I'm Mastering)
+## 🔧 Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,28 +21,19 @@ Aspiring Full‑Stack Developer | Currently mastering HTML/CSS fundamentals, adv
 
 ## 📚 Learning Journey
 
-![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-000000?style=for-the-badge&logo=odin&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-000000?style=for-the-badge&logo=odin&logoColor=white)(https://theodinproject.com)
+
+![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)(https://www.freecodecamp.org/)
 
 - Building skills with **The Odin Project** (Foundations, Full‑Stack JavaScript Path)
 - Advancing through **FreeCodeCamp** (Responsive Web Design, Full‑Stack Development Curriculum)
 - Practicing disciplined workflows to strengthen fundamentals before scaling up
 
-## 📂 Current Projects
 
-- Semantic HTML practice pages
-- CSS layout and styling exercises
-- Small responsive web projects inspired by FCC & TOP challenges
-
-## 🎯 Short‑Term Goals
-
-- Complete FCC’s Responsive Web Design and JavaScript modules
-- Progress through TOP’s Foundations curriculum
-- Launch my personal portfolio website 🌟
 
 ## 🚀 Long‑Term Goal
 
-- Aspire to specialize as a **Payment Systems Specialist**, designing secure, scalable solutions for digital transactions and financial platforms
+- Aspire to specialize as a **Payment Systems Specialist**, designing secure, scalable solutions for digital transactions and financial platforms.
 
 ## 📫 Contact
 

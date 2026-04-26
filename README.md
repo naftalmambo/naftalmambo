@@ -21,7 +21,7 @@
 
 ## 📚 Learning Journey
 
-![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-000000?style=for-the-badge&logo=odin&logoColor=white)(https://theodinproject.com)
+[![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-000000?style=for-the-badge&logo=odin&logoColor=white)(https://theodinproject.com)]
 
 ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)(https://www.freecodecamp.org/)
 

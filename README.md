@@ -3,7 +3,7 @@
 I'm self-taught Web Developer currently mastering the fundamentals of **JavaScript**. I have a deep interest in how digital money moves and am working toward a long-term goal of becoming an expert in **financial and payment systems**.
 
 
-- 👯 I’m looking to collaborate on [Open Source/Side Project]
+- 👯 I’m looking to contribute on [Open Source/Side Project]
 
 
 ## 🔧 Tech Stack
@@ -20,9 +20,16 @@ I'm self-taught Web Developer currently mastering the fundamentals of **JavaScri
 
 
 ### 🎓 Certifications
-- **Responsive Web Design** – [freeCodeCamp](https://freecodecamp.org[naftalmambo]/responsive-web-design)
+- **Responsive Web Design** – [freeCodeCamp](https://freecodecamp.org/certification/naftalmambo/responsive-web-design-v9)
 
 
 ## 📫 Contact
 
+If you need extra hands or eyes for your project, please feel free to reach out;
+
 ![GitHub](https://github.com/naftalmambo)
+![LinkedIn](https://linkedin.com/in/naftalmambo)
+![Discord](https://discordapp.com/users/1157321092482994246)
+
+
+

@@ -1,8 +1,12 @@
 # 👋 Hello World, I'm Naftal Mambo
 
+I'm self-taught Web Developer currently mastering the fundamentals of **JavaScript**. I have a deep interest in how digital money moves and am working toward a long-term goal of becoming an expert in **financial and payment systems**.
 
 
-## 🔧 Skills
+- 👯 I’m looking to collaborate on [Open Source/Side Project]
+
+
+## 🔧 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,11 +19,10 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 
+### 🎓 Certifications
+- **Responsive Web Design** – [freeCodeCamp](https://freecodecamp.org[naftalmambo]/responsive-web-design)
 
 
 ## 📫 Contact
 
-[![GitHub](https://shields.io)](https://github.com/naftalmambo)
-
-
-
+![GitHub](https://github.com/naftalmambo)

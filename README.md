@@ -31,9 +31,8 @@
 
 ## 📫 Contact
 
-[![GitHub](https://shields.io)](https://github.com) 
-[![Discord](https://shields.io)](https://discord.com)
+[![GitHub](https://shields.io)](https://github.com/naftalmambo)
+[![Discord](https://shields.io)](https://discord.com/users/1157321092482994246)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
-- **Discord:** `naftalmambo`
-- **GitHub:** [naftalmambo](https://github.com)
-- **Collaboration:** Feel free to open an issue in this repository for feedback or networking!
+

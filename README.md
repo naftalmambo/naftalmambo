@@ -1,6 +1,4 @@
 
-[![naftalmambo's GitHub stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
 # 👋 Hello World, I'm Naftal Mambo;
 
 - A self-taught Web Developer currently mastering **Front-End Web Development**.

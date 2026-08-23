@@ -48,6 +48,6 @@ I am a backend software developer focused on building functional, reliable web s
 
 Feel free to reach out directly if you want to connect or discuss backend engineering:
 
-- 📧 **Email:** naftalmmb@gmail.com
 - 💼 **LinkedIn:** [naftalmambo](https://linkedin.com)
-- [💬 **Discord:**](https://discord.com/user/1157321092482994246)
+- 📧 **Email:** naftalmmb@gmail.com
+- 💬 **Discord:** [Contact me on Discord](https://discord.com/user/1157321092482994246)

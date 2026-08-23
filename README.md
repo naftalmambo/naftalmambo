@@ -50,4 +50,4 @@ Feel free to reach out directly if you want to connect or discuss backend engine
 
 - 📧 **Email:** naftalmmb@gmail.com
 - 💼 **LinkedIn:** [naftalmambo](https://linkedin.com)
-- 💬 **Discord:** [Contact me on Discord](https://discord.com/user/1157321092482994246)
+- [💬 **Discord:**](https://discord.com/user/1157321092482994246)

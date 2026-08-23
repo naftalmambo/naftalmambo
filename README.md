@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Naftal Mambo
 
-I am focused and self-motivated Software Developer with a Bachelor of Business Information Technology (Second Class Upper). I specialize in architecting secure multi-tier applications, engineering optimized relational database schemas, and managing Linux systems infrastructure.
+I am a focused and self-motivated Software Developer with a Bachelor of Business Information Technology (Second Class Upper). I specialize in architecting secure multi-tier applications, engineering optimized relational database schemas, and managing Linux systems infrastructure.
 
 ### 🎯 Core Engineering Mission
 

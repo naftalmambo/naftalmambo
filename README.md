@@ -1,16 +1,17 @@
 # 👋 Hello World, I'm Naftal Mambo
 
-I am focused and self-motivated Backend Software Engineer and Systems Developer with a Bachelor of Business Information Technology (Second Class Upper, JKUAT). I specialize in architecting secure multi-tier applications, engineering optimized relational database schemas, and managing low-level Linux systems infrastructure.
+I am focused and self-motivated Software Developer with a Bachelor of Business Information Technology (Second Class Upper). I specialize in architecting secure multi-tier applications, engineering optimized relational database schemas, and managing Linux systems infrastructure.
 
 ### 🎯 Core Engineering Mission
 
-I am a backend software developer focused on building functional, reliable web server applications and relational databases using Java and PostgreSQL. My goal is to work within a structured team environment where I can manage data pipelines, optimize query speeds, and help maintain stable database architectures for enterprise platforms.
+I am focused on building functional, reliable web server applications and relational databases using Java and PostgreSQL. My goal is to work within a structured team environment where I can manage data pipelines, optimize query speeds, and help maintain stable systems.
 
 ---
 
 ### 🏗️ Featured Production Architecture
 
-- **[Enterprise Inventory Management System - Prototype](https://github.com/naftalmambo/ifs-warehouse-db)**
+- **[Inventory Management System - Prototype](https://github.com/naftalmambo/ifs-warehouse-db)**
+
   A proof-of-concept three-tier application designed and compiled completely back-to-front.
   - **Database Layer:** Formulated localized PostgreSQL schemas with strict primary/foreign key data constraints, custom data types, and transactional table architectures.
   - **Server Engine:** Built a native, built-in Java web server socket controller to listen for network ports and stream relational database records asynchronously.
@@ -29,7 +30,7 @@ I am a backend software developer focused on building functional, reliable web s
 
 ## 🔧 Production Tech Stack & Tooling
 
-![Java]()
+![Java]https://shields.io)
 ![PostgreSQL](https://shields.io)
 ![MySQL](https://shields.io)
 ![JavaScript](https://shields.io)  
@@ -46,7 +47,7 @@ I am a backend software developer focused on building functional, reliable web s
 
 ## 📫 Professional Network Channels
 
-Feel free to reach out directly if you want to connect or discuss backend engineering:
+Please feel free to reach out directly if you want to connect:
 
 - 💼 **LinkedIn:** [naftalmambo](https://linkedin.com)
 - 📧 **Email:** naftalmmb@gmail.com

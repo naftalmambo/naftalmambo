@@ -4,7 +4,7 @@ I am focused and self-motivated Software Developer with a Bachelor of Business I
 
 ### 🎯 Core Engineering Mission
 
-I am focused on building functional, reliable web server applications and relational databases using Java and PostgreSQL. My goal is to work within a structured team environment where I can manage data pipelines, optimize query speeds, and help maintain stable systems.
+I am dedicating my time to learning and building functional, reliable web server applications and relational databases using Java and PostgreSQL. My goal is to work within a structured team environment where I can manage data pipelines, optimize query speeds, and help maintain stable systems.
 
 ---
 
@@ -30,18 +30,12 @@ I am focused on building functional, reliable web server applications and relati
 
 ## 🔧 Production Tech Stack & Tooling
 
-![Java]https://shields.io)
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
-![JavaScript](https://shields.io)  
-![HTML](https://shields.io)
-![CSS](https://shields.io)
-![Linux](https://shields.io)
-![VS Code](https://shields.io)  
-![Git](https://shields.io)
-![Terminal](https://shields.io)
-![GitHub](https://shields.io)
-![Virtualization](https://shields.io)
+<ul>
+  <li><b>Core Language:</b> Java, Html, Css</li>
+  <li><b>Database Engines:</b> PostgreSQL, MySQL, Relational Schema Architecture</li>
+  <li><b>Systems Environment:</b> Linux(Ubuntu), Windows, Bash Terminal Shell</li>
+  <li><b>Tools & Control:</b> Git, GitHub, VS Code</li>
+</ul>
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Naftal Mambo
 
-I am a focused and self-motivated Software Developer with a Bachelor of Business Information Technology (Second Class Upper). I specialize in building secure web applications, engineering optimized relational database schemas, and managing Linux systems infrastructure.
+I am a focused and self-motivated Software Developer with a Bachelor of Business Information Technology. I specialize in building secure web applications, engineering optimized relational database schemas, and managing Linux systems infrastructure.
 
 ### 🎯 Core Engineering Mission
 
@@ -21,7 +21,7 @@ I am dedicating my time to learning and building functional, reliable web server
 
 ### 🎓 Academic & Professional Credentials
 
-- **Bachelor of Business Information Technology** – Jomo Kenyatta University of Agriculture and Technology (JKUAT)
+- **Bachelor of Business Information Technology (Second Class Upper)** – Jomo Kenyatta University of Agriculture and Technology (JKUAT)
 - **Microsoft Certified IT Professional (MCITP)** – Server Infrastructure & Enterprise Data Channels
 - **Responsive Web Design** – [freeCodeCamp Certified](https://www.freecodecamp.org/certification/naftalmambo/responsive-web-design-v9)
 - **International Computer Driving Licence (ICDL)** – Systems & Foundational Digital Literacy
@@ -33,7 +33,7 @@ I am dedicating my time to learning and building functional, reliable web server
 <ul>
   <li><b>Core Languages:</b> Java, Html, Css</li>
   <li><b>Database Engines:</b> PostgreSQL, MySQL, Relational Schema Architecture</li>
-  <li><b>Systems Environment:</b> Linux(Ubuntu), Windows, Virtualization</li>
+  <li><b>Systems Environment:</b> Linux (Ubuntu), Windows, Virtualization</li>
   <li><b>Tools & Control:</b> Git, GitHub, VS Code, Terminal</li>
 </ul>
 

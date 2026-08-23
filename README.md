@@ -31,10 +31,10 @@ I am dedicating my time to learning and building functional, reliable web server
 ## 🔧 Production Tech Stack & Tooling
 
 <ul>
-  <li><b>Core Language:</b> Java, Html, Css</li>
+  <li><b>Core Languages:</b> Java, Html, Css</li>
   <li><b>Database Engines:</b> PostgreSQL, MySQL, Relational Schema Architecture</li>
-  <li><b>Systems Environment:</b> Linux(Ubuntu), Windows, Bash Terminal Shell</li>
-  <li><b>Tools & Control:</b> Git, GitHub, VS Code</li>
+  <li><b>Systems Environment:</b> Linux(Ubuntu), Windows, Virtualization</li>
+  <li><b>Tools & Control:</b> Git, GitHub, VS Code, Terminal</li>
 </ul>
 
 ---

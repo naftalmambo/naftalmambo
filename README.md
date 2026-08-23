@@ -29,7 +29,7 @@ I am a backend software developer focused on building functional, reliable web s
 
 ## 🔧 Production Tech Stack & Tooling
 
-![Java](https://shields.io)
+![Java]
 ![PostgreSQL](https://shields.io)
 ![MySQL](https://shields.io)
 ![JavaScript](https://shields.io)  

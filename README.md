@@ -16,10 +16,10 @@ I am dedicating my time to improve on my skills and knowledge through learning f
 
 ### 🎓 Professional Credentials
 
-- **Bachelor of Business Information Technology** – JKUAT
-- **Microsoft Certified IT Professional (MCITP)** – Server Infrastructure
 - **Java Programming I** – [University Of Helsinki MOOC Certified](https://certificates.mooc.fi/validate/3h1wws1fuic)
 - **Responsive Web Design** – [freeCodeCamp Certified](https://www.freecodecamp.org/certification/naftalmambo/responsive-web-design-v9)
+- **Microsoft Certified IT Professional (MCITP)** – Server Infrastructure
+- **Bachelor of Business Information Technology** – JKUAT
 
 ---
 
@@ -32,10 +32,8 @@ I am dedicating my time to improve on my skills and knowledge through learning f
 
 ---
 
-## 📫 Professional Network Channels
+## 📫 Let's Connect
 
-Please feel free to reach out directly if you want to connect:
-
-- 💼 **LinkedIn:** [naftalmambo](https://linkedin.com)
-- 📧 **Email:** naftalmmb@gmail.com
-- 💬 **Discord:** [Contact me on Discord](https://discord.com/user/1157321092482994246)
+- 💼 **[LinkedIn](https://www.linkedin.com/in/naftalmambo/)**
+- 📧 **[Email](mailto:naftalmmb@gmail.com)**
+- 💬 **[Discord](https://discord.com/user/1157321092482994246)**

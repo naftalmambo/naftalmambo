@@ -1,41 +1,34 @@
 # 👋 Hello World, I'm Naftal Mambo
 
-I am a focused and self-motivated Software Developer with a Bachelor of Business Information Technology. I specialize in building secure web applications, engineering optimized relational database schemas, and managing Linux systems infrastructure.
+I am a **Software Engineer** focused on backend systems, clean relational database architecture, and Linux infrastructure. I specialize in building reliable multi-tier applications using Java and PostgreSQL.
 
-### 🎯 Core Engineering Mission
-
-I am dedicating my time to learning and building functional, reliable web server applications and relational databases using Java and PostgreSQL. My goal is to work within a structured team environment where I can manage data pipelines, optimize query speeds, and help maintain stable systems.
+I am dedicating my time to improve on my skills and knowledge through learning from structured curriculums and resources.
 
 ---
 
-### 🏗️ Featured Production Architecture
+### 🏗️ Featured Projects
 
 - **[Inventory Management System - Prototype](https://github.com/naftalmambo/ifs-warehouse-db)**
 
-  A proof-of-concept three-tier application designed and compiled completely back-to-front.
-  - **Database Layer:** Formulated localized PostgreSQL schemas with strict primary/foreign key data constraints, custom data types, and transactional table architectures.
-  - **Server Engine:** Built a native, built-in Java web server socket controller to listen for network ports and stream relational database records asynchronously.
-  - **Optimization & Data Piping:** Authored multi-table analytical SQL statements utilizing complex INNER JOIN aggregations and GROUP BY sequences to instantly crunch volume metrics without UI-reload bottlenecks.
+- **[Ledger Banking Engine](https://github.com/naftalmambo/sacco-management-backend)**
 
 ---
 
-### 🎓 Academic & Professional Credentials
+### 🎓 Professional Credentials
 
-- **Bachelor of Business Information Technology (Second Class Upper)** – Jomo Kenyatta University of Agriculture and Technology (JKUAT)
-- **Microsoft Certified IT Professional (MCITP)** – Server Infrastructure & Enterprise Data Channels
+- **Bachelor of Business Information Technology** – JKUAT
+- **Microsoft Certified IT Professional (MCITP)** – Server Infrastructure
+- **Java Programming I** – [University Of Helsinki MOOC Certified](https://certificates.mooc.fi/validate/3h1wws1fuic)
 - **Responsive Web Design** – [freeCodeCamp Certified](https://www.freecodecamp.org/certification/naftalmambo/responsive-web-design-v9)
-- **International Computer Driving Licence (ICDL)** – Systems & Foundational Digital Literacy
 
 ---
 
-## 🔧 Production Tech Stack & Tooling
+## 🔧 Tech Stack & Tooling
 
-<ul>
-  <li><b>Core Languages:</b> Java, Html, Css</li>
-  <li><b>Database Engines:</b> PostgreSQL, MySQL, Relational Schema Architecture</li>
-  <li><b>Systems Environment:</b> Linux (Ubuntu), Windows, Virtualization</li>
-  <li><b>Tools & Control:</b> Git, GitHub, VS Code, Terminal</li>
-</ul>
+- **Languages:** Java, SQL, HTML, CSS
+- **Databases:** PostgreSQL, MySQL
+- **Environments:** Linux (Ubuntu), Windows Server, Virtualization
+- **Tools:** Git, GitHub, VS Code, Linux Terminal
 
 ---
 

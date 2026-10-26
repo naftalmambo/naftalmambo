@@ -8,7 +8,7 @@ I am dedicating my time to improve on my skills and knowledge through learning f
 
 ### 🏗️ Featured Projects
 
-- **[Inventory Management System - Prototype](https://github.com/naftalmambo/ifs-warehouse-db)**
+- **[Inventory Management System](https://github.com/naftalmambo/ifs-warehouse-db)**
 
 - **[Ledger Banking Engine](https://github.com/naftalmambo/sacco-management-backend)**
 

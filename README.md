@@ -36,4 +36,3 @@ I am dedicating my time to improve on my skills and knowledge through learning f
 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/naftalmambo/)**
 - 📧 **[Email](mailto:naftalmmb@gmail.com)**
-- 💬 **[Discord](https://discord.com/user/1157321092482994246)**
